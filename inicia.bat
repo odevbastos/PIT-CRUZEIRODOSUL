@@ -1,0 +1,1 @@
+\Bitnami\wampstack-7.4.30-1\php\php artisan serve --host 0.0.0.0
