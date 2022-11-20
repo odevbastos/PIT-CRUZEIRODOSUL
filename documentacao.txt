@@ -1,0 +1,3 @@
+- O projeto busca solucionar um cadastro de cliente web, para empresas atacadistas ou que vendam
+para clientes CNPJ possibilitando automatizar a busca direta por uma API aberta de consulta dados
+do CNPJ. Tornando assim um cadastro mais eficaz!
